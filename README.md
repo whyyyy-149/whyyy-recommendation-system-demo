@@ -11,8 +11,8 @@ evaluation.
 ## Getting Started
 
 ```bash
-git clone git@github.com:<your-username>/whyyy_recommendation_system_demo.git
-cd whyyy_recommendation_system_demo
+git clone git@github.com:whyyyy-149/whyyy-recommendation-system-demo.git
+cd whyyy-recommendation-system-demo
 ```
 
 ## Layout
