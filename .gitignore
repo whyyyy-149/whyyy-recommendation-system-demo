@@ -1,0 +1,39 @@
+# ---- OS / editor noise ----
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+.obsidian/
+
+# ---- secrets & local env ----
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+
+# ---- logs & temp ----
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# ---- dependencies (uncomment what you need) ----
+# node_modules/
+# __pycache__/
+# *.py[cod]
+# .venv/
+# venv/
+# target/
+# dist/
+# build/
+# bin/
+# obj/
